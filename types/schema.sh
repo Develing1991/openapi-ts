@@ -1,0 +1,1 @@
+npx openapi-typescript /Users/suhanlee/Desktop/test/generator/openapi.yaml -o ./types/schema.d.ts
