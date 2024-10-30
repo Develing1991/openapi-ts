@@ -1,3 +1,5 @@
+## How to Export an API Document from Swagger
+## https://apidog.com/blog/how-to-export-swagger-api-document/
 openapi: 3.0.2
 info:
   title: Swagger Petstore - OpenAPI 3.0
