@@ -1,5 +1,8 @@
 ## How to Export an API Document from Swagger
 ## https://apidog.com/blog/how-to-export-swagger-api-document/
+
+## Swagger Editor
+## https://swagger.io/tools/swagger-editor/
 openapi: 3.0.2
 info:
   title: Swagger Petstore - OpenAPI 3.0
